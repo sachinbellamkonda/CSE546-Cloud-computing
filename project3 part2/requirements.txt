@@ -1,0 +1,10 @@
+boto3
+botocore
+torch==1.13.1+cpu
+torchvision==0.14.1+cpu
+-f https://download.pytorch.org/whl/torch_stable.html
+facenet-pytorch
+numpy
+opencv-python-headless
+Pillow
+awslambdaric
